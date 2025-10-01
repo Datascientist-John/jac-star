@@ -12,4 +12,4 @@ Integrating LLMs for hint generation.
 
 Experimenting with APIs
 
-Surreal!
+Sureal!
